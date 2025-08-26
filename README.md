@@ -5,7 +5,7 @@
 # 💫 About Me:
 # Hi there! 👋 I'm Animesh Kumar Mandal  
 
-I'm a *Full-Stack Developer, Problem Solver, and Tech Enthusiast* currently pursuing my postgraduation at **IIT (ISM) Dhanbad** with a GPA of **9.10/10**.  
+I'm a *Full-Stack Developer, Problem Solver, and Tech Enthusiast* currently pursuing my postgraduation at **IIT (ISM) Dhanbad** with a GPA of **8.96/10**.  
 I love building scalable applications, exploring modern web technologies, and solving real-world problems through code.  
 
 ## 🚀 What I Do  
