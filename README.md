@@ -8,7 +8,7 @@ Hi there! 👋 I’m **Animesh Kumar Mandal**, a Full-Stack Developer, Problem S
 ---
 
 ##  What I'm Doing
-- Pursuing **postgraduation** at IIT (ISM) with a **GPA of 8.96/10**.
+- Pursuing **Graduation** at IIT (ISM) with a **GPA of 8.96/10**.
 - Developing **scalable full-stack applications** using modern technologies.
 - Building **AI-powered tools** to solve real-world problems.
 - Engaging in **hackathons and coding challenges**—always leveling up.
